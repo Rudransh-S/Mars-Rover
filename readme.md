@@ -45,5 +45,6 @@ This failure prompted a complete redesign of the electronics subsystem.
 
 During the testing phase of our Mars Rover prototype, we encountered a critical mechanical limitation in the linkage between the servo motor and the steering wheel assembly. Specifically, the connection interface we had initially designed was not robust enough to withstand the operational loads, especially when the rover was tested on even surfaces. This failure compromised steering control, leading to unresponsiveness during maneuvering tests.
 
+<video controls src="Video 1.mp4" title="Title"></video>
 
 
